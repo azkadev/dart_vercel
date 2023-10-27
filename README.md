@@ -16,4 +16,4 @@ Start the application via the [Vercel CLI](https://vercel.com/docs/cli):
 vercel dev
 ```
 
-For more information, see the [Dart Edge documentation](https://docs.dartedge.dev).# dart_vercel
+For more information, see the [Dart Edge documentation](https://docs.dartedge.dev).

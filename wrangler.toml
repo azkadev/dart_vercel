@@ -1,0 +1,9 @@
+name = "cloudflare-workers"
+compatibility_date = "2023-03-14"
+main = ".dart_tool/edge/entry.js"
+minify = true
+node_compat = true
+
+[build]
+command = "dart run edge build cloudflare_workers"
+watch_dir = ["lib"]
