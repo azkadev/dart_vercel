@@ -1,19 +1,13 @@
-# Vercel Edge Example
+IyBWZXJjZWwgRWRnZSBFeGFtcGxlCgpUaGlzIHRlbXBsYXRlIGRlbW9uc3Ry
+YXRlcyBob3cgdG8gcnVuIGEgW1ZlcmNlbCBFZGdlXShodHRwczovL3ZlcmNl
+bC5jb20vZmVhdHVyZXMvZWRnZS1mdW5jdGlvbnMpIGFwcGxpY2F0aW9uIHZp
+YSBEYXJ0IEVkZ2UuCgojIyBHZXR0aW5nIFN0YXJ0ZWQKCkluc3RhbGwgdGhl
+IGRlcGVuZGVuY2llcyA6CgpgYGBiYXNoCmRhcnQgcHViIGdldApgYGAKClN0
+YXJ0IHRoZSBhcHBsaWNhdGlvbiB2aWEgdGhlIFtWZXJjZWwgQ0xJXShodHRw
+czovL3ZlcmNlbC5jb20vZG9jcy9jbGkpOgoKYGBgYmFzaAp2ZXJjZWwgZGV2
+CmBgYAoKRm9yIG1vcmUgaW5mb3JtYXRpb24sIHNlZSB0aGUgW0RhcnQgRWRn
+ZSBkb2N1bWVudGF0aW9uXShodHRwczovL2RvY3MuZGFydGVkZ2UuZGV2KS4=
 
-This template demonstrates how to run a [Vercel Edge](https://vercel.com/features/edge-functions) application via Dart Edge.
-
-## Getting Started
-
-Install the dependencies :
-
-```bash
-dart pub get
-```
-
-Start the application via the [Vercel CLI](https://vercel.com/docs/cli):
-
-```bash
-vercel dev
-```
-
-For more information, see the [Dart Edge documentation](https://docs.dartedge.dev).
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
